@@ -1,0 +1,6 @@
+name: PrimeMC_RankUP
+version: 1.0
+main: me.primemc.rankup.PrimeRankUP
+commands:
+  rankup:
+  ranks:

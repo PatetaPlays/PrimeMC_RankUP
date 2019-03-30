@@ -1,0 +1,29 @@
+Ranks:
+  Rank1:
+    Nome: 'Rank1'
+    Tag: '&e[Rank1]'
+    Preco: 0
+    Comandos:
+    - 'pex user @player group add rank1'
+  Rank2:
+    Nome: 'Rank2'
+    Tag: '&b[Rank2]'
+    Preco: 5000
+    Comandos:
+    - 'pex user @player group remove rank1'
+    - 'pex user @player group add rank2'
+  Rank3:
+    Nome: 'Rank3'
+    Tag: '&a[Rank3]'
+    Preco: 50000
+    Comandos:
+    - 'pex user @player group remove rank2'
+    - 'pex user @player group add rank3'
+  Rank4:
+    Nome: 'Rank4'
+    Tag: '&6[Rank4]'
+    Preco: 500000
+    Comandos:
+    - 'pex user @player group remove rank3'
+    - 'pex user @player group add rank4'
+  
